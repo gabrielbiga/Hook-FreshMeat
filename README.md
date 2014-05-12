@@ -8,7 +8,7 @@ Hook FreshMeat is a adventure Java game based on Tibia sprites just for learning
 * Basic battle system
 * Screen responsive
 
-.. image:: https://github.com/gabrielbiga/Hook-FreshMeat/raw/master/Assets/screenshot.png
+![alt tag](https://github.com/gabrielbiga/Hook-FreshMeat/raw/master/Assets/screenshot.png)
 
 Compile
 =======
