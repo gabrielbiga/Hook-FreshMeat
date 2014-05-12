@@ -14,6 +14,11 @@ Compile
 =======
 Just clone, open NetBeans project, hit build and have fun. :)
 
+Authors
+=======
+Gabriel Marinho
+Victor Guarnieri 
+
 License
 =======
 All sprites is licensed and owned by CipSoft.
