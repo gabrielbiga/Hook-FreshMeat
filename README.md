@@ -14,7 +14,7 @@ Compile
 =======
 Just clone, open NetBeans project, hit build and have fun. :)
 
-Licence
+License
 =======
 All sprites is licensed and owned by CipSoft.
 The engine is fully opensource under GPL v2.
