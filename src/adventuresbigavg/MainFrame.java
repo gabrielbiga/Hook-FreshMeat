@@ -31,7 +31,9 @@ public class MainFrame extends JFrame {
         }
         
         try {
-            Thread.sleep(19000);
+            //Workarround para video de logo que nao está presente no repo do Github
+            //Thread.sleep(19000); 
+            Thread.sleep(500);
         } catch (InterruptedException ex) {
             Logger.getLogger(MainFrame.class.getName()).log(Level.SEVERE, null, ex);
         }
